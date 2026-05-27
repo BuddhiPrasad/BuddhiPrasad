@@ -5,11 +5,11 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=buddhiprasad&label=Profile%20views&color=0e75b6&style=flat" alt="buddhiprasad" /> </p>
 </div>
 
-- 🌱 I’m currently learning **MERN** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **Python** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 🧑‍🎓 I’m an Undergraduate at **NIBM** 
+- 🧑‍🎓 I’m an graduate at **NIBM** 
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & React Native**
 
 - 📫 How to reach me **bp980930@gmail.com**
 
